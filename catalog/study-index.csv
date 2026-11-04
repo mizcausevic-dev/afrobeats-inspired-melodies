@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ab01,Clay Lines,pack-local equal-tempered pitch collection,C,104,4/4,480,32,61440,midi/ab01-clay-lines/ab01-clay-lines-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ab02,Sun Reply,pack-local equal-tempered pitch collection,D#,104,4/4,480,32,61440,midi/ab02-sun-reply/ab02-sun-reply-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ab03,Blue Corner,pack-local equal-tempered pitch collection,F#,104,4/4,480,32,61440,midi/ab03-blue-corner/ab03-blue-corner-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ab04,Warm Return,pack-local equal-tempered pitch collection,C#,104,4/4,480,32,61440,midi/ab04-warm-return/ab04-warm-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

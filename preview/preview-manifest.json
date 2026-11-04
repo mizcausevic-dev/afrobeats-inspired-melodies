@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/afrobeats-inspired-melodies-simple-synth-preview.mp3",
+  "preview_sha256": "61fdbeb07ebd02c856fa855bff000010a3fc326e004e4b050f31debff9ec1d9d",
+  "source_midi_path": "midi/ab01-clay-lines/ab01-clay-lines-combined.mid",
+  "source_midi_sha256": "1800cdd49d16dbab5d5a671d9298ec725a2a0907bbb57e58f25c1d79727888cf",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "ab01",
+    "start_seconds": 0,
+    "end_seconds": 73.846
+  },
+  "measurement": {
+    "sample_peak": 0.124098,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
