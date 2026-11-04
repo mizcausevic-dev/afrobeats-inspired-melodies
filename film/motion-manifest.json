@@ -1,0 +1,26 @@
+{
+  "title": "Afrobeats-Inspired Melodies",
+  "study": "ab01",
+  "bpm": 104,
+  "source_audio": "preview/afrobeats-inspired-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "61fdbeb07ebd02c856fa855bff000010a3fc326e004e4b050f31debff9ec1d9d",
+  "source_midi": "midi/ab01-clay-lines/ab01-clay-lines-combined.mid",
+  "source_midi_sha256": "1800cdd49d16dbab5d5a671d9298ec725a2a0907bbb57e58f25c1d79727888cf",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "051fbe63e10b5e0a3e3aed784d727d07e921fcee8dd27b5b656c45565429cbb3",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "d790a974546787a1570fdb406da5cf2cbe82877667b619c51c5a49a1ba62b987",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "fb181f5d9c53018c57e44c6ecf180d07bd8c2c0dbbd8468e216cba4a0fc273ca",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
