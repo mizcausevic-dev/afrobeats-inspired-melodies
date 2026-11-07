@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 797,
-      "sha256": "b94273f4ad8a59699523a0435849a45bfdfd3e35e3008d4ac40d3015e10f69b4"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3911,
-      "sha256": "5b943ff3bf874f8e7d309d8b8db31f202816c8f7df00aea73f9cd258338bc3cd"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/afrobeats-inspired-melodies-midi.zip",
-      "bytes": 28261,
-      "sha256": "b11f313195afe447eb7b0b5f8d1245e8097be10ed2a266990bf83f90f1ba9fc6"
+      "bytes": 30343,
+      "sha256": "26c6daa7c56cb94896f14a407edd4081023bb43e9a517f24cb70cac9490a348c"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 34145,
       "sha256": "3dcae5d0d837e690e052200b4e978eae3e134ec70682b433bd331e2eb1f85d39"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1120972,
-      "sha256": "fb181f5d9c53018c57e44c6ecf180d07bd8c2c0dbbd8468e216cba4a0fc273ca"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9556,
-      "sha256": "9fd47a978aa2bd884f32e5f24ee8da1b0e40b294175ef5cd426f4a1a134dae67"
+      "bytes": 9746,
+      "sha256": "c8832eeea1964ac106da6f3404971b08c9110fc2807c960d109389a56db27202"
     },
     {
       "path": "midi/ab01-clay-lines/ab01-clay-lines-combined.mid",
@@ -402,6 +387,16 @@
       "sha256": "8cb50a37ec3f5a1cdb5fd8addae4b1f4a235954e3bba54e8ae92a48849373b47"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 797,
+      "sha256": "b94273f4ad8a59699523a0435849a45bfdfd3e35e3008d4ac40d3015e10f69b4"
+    },
+    {
       "path": "preview/afrobeats-inspired-melodies-simple-synth-preview.mp3",
       "bytes": 1786192,
       "sha256": "61fdbeb07ebd02c856fa855bff000010a3fc326e004e4b050f31debff9ec1d9d"
@@ -410,6 +405,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1138,
       "sha256": "b17dbde2e6165a2f7a00f878966adb6ea05355fb407e94ac74dbc16fcca84d73"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4026,
+      "sha256": "64b7f0a9b47565963a8bb4c45085502b4addb40c2dfc39b2dfd9e9fb2c7cdc8a"
     },
     {
       "path": "social/instagram/caption.txt",
